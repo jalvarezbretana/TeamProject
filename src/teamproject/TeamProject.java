@@ -17,6 +17,7 @@ public class TeamProject {
     public static void main(String[] args) {
         // TODO code application logic here
         System.out.println("Bienvenido a Arstotzka");
+        System.out.println("Discrepancia detectada");
     }
     
 }
